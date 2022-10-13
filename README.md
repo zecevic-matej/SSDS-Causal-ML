@@ -4,4 +4,4 @@
 
 ---
 
-A juptyer notebook is provided, also as Google Colab available at: https://colab.research.google.com/github/zecevic-matej/SSDS-Causal-ML/blob/main/SSDS_2022_Hands-on_Causality_for_ML.ipynb
+Open a Colab session. Select runtime "GPU" if wished. Then add the local files from the git repository to the runtime (otherwise the dependencies break). Then simply run and enjoy :heart_eyes:
